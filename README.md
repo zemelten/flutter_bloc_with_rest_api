@@ -52,4 +52,4 @@ If your API uses different fields or paths, adjust:
 ---
 
 ## License
-MIT (or your preferred license)
+MIT
