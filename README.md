@@ -1,6 +1,6 @@
 ## Flutter BLoC with REST API (Clean Architecture)
 
-This project demonstrates a production-ready authentication flow using Flutter, BLoC, and a REST API, organized with Clean Architecture and dependency injection. It also includes a polished example Notes UI.
+This project demonstrates a production-ready authentication flow using Flutter, BLoC, and a REST API, organized with Clean Architecture and dependency injection.
 
 ### Tech Stack
 - **State management**: `flutter_bloc`
